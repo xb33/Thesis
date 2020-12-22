@@ -9,6 +9,11 @@
 --> ATMega2560 folder contains the codes uploaded to the transmitter transceiver in conjunction with the XBee devices.
 
 --> Python folder contains the codes used to manipulate the data, and save the data.
+##------------------------------------------------------------------------------------------------------------------##
 
+Data folder contains part of the experimental data acquired by the XBee devices and SDR to the obtention of the metrics.
+
+
+##------------------------------------------------------------------------------------------------------------------##
 
 NALV.

@@ -1,0 +1,17 @@
+##-------------------------------------------------------------------##
+The code used to implement the sniffer IEEE 802.15.4 and the programs could be founded in : 
+
+[1] Bloessl, B.; Leitner, C.; Dressler, F.; Sommer, C. A GNU Radio-based IEEE 802.15.4 Testbed.  IEEE, 2003
+
+[2] https://www.wime-project.net/installation/
+
+[3] https://www.gnuradio.org/
+
+We use the PyBombs method to perform the installation of the software and modules.
+
+For the firmware, we use the instructions detailled in :
+
+[4] https://kb.ettus.com/Building_and_Installing_the_USRP_Open-Source_Toolchain_(UHD_and_GNU_Radio)_on_Linux
+
+
+##-----------------------------------------------------------------------##
